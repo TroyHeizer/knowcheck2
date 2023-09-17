@@ -1,0 +1,15 @@
+C:\Users\troyh\source\repos\KnowCheck9-10\bin\Debug\net7.0\KnowCheck9-10.exe
+C:\Users\troyh\source\repos\KnowCheck9-10\bin\Debug\net7.0\KnowCheck9-10.deps.json
+C:\Users\troyh\source\repos\KnowCheck9-10\bin\Debug\net7.0\KnowCheck9-10.runtimeconfig.json
+C:\Users\troyh\source\repos\KnowCheck9-10\bin\Debug\net7.0\KnowCheck9-10.dll
+C:\Users\troyh\source\repos\KnowCheck9-10\bin\Debug\net7.0\KnowCheck9-10.pdb
+C:\Users\troyh\source\repos\KnowCheck9-10\obj\Debug\net7.0\KnowCheck9-10.csproj.AssemblyReference.cache
+C:\Users\troyh\source\repos\KnowCheck9-10\obj\Debug\net7.0\KnowCheck9-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\troyh\source\repos\KnowCheck9-10\obj\Debug\net7.0\KnowCheck9-10.AssemblyInfoInputs.cache
+C:\Users\troyh\source\repos\KnowCheck9-10\obj\Debug\net7.0\KnowCheck9-10.AssemblyInfo.cs
+C:\Users\troyh\source\repos\KnowCheck9-10\obj\Debug\net7.0\KnowCheck9-10.csproj.CoreCompileInputs.cache
+C:\Users\troyh\source\repos\KnowCheck9-10\obj\Debug\net7.0\KnowCheck9-10.dll
+C:\Users\troyh\source\repos\KnowCheck9-10\obj\Debug\net7.0\refint\KnowCheck9-10.dll
+C:\Users\troyh\source\repos\KnowCheck9-10\obj\Debug\net7.0\KnowCheck9-10.pdb
+C:\Users\troyh\source\repos\KnowCheck9-10\obj\Debug\net7.0\KnowCheck9-10.genruntimeconfig.cache
+C:\Users\troyh\source\repos\KnowCheck9-10\obj\Debug\net7.0\ref\KnowCheck9-10.dll
